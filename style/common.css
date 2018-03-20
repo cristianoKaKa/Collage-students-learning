@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url("../images/bg.png");
+}
+body a:hover{
+    text-decoration: underline;
+}
+.container{
+    width: 1147px;
+    margin: 0 auto;
+}
+.public-header{
+    width: inherit;
+    height: 92px;
+    background-color: #404040;
+}
+.public-header .header-logo{
+    float: left;
+    margin-top: 14px;
+    margin-left: 60px;
+    width: 530px;
+    height: 60px;
+}
+
+.public-footer{
+    width: inherit;
+    height: 30px;
+    background-color: #404040;
+    padding-top: 10px;
+}

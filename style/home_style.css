@@ -1,0 +1,63 @@
+body{
+	text-align: center;
+	background-image: url("../images/bg.png");
+}
+body a:hover{
+	text-decoration: underline;
+}
+.container{
+	width: 1147px;
+	margin: 0 auto;
+}
+.public-header{
+	width: inherit;
+	height: 92px;
+	background-color: #404040;
+}
+.public-header .header-logo{
+	float: left;
+	margin-top: 14px;
+	margin-left: 60px;
+	width: 530px;
+	height: 60px;
+}
+.public-header .header-login{
+	float: right;
+	font-size: 24px;
+	margin-top: 34px;
+	margin-right: 70px;
+	font-family: "Microsoft JhengHei UI";
+	float: right;
+}
+.public-header .header-login .item{
+	float: left;
+	margin-left: 10px;
+}
+
+.public-header .header-login .item .item-link{
+	color: #dfd6d6;
+}
+.index-main{
+	height: 676px;
+	width: inherit;
+	background-image: url("../images/index-body2.png");
+}
+.index-main .words{
+	float: left;
+	margin-top: 208px;
+	margin-left: 510px;
+	font-family: 楷体;
+	font-size: 60px;
+	color: #fbfbfb;
+	text-decoration: underline;
+}
+.index-main .words a{
+	color: #fbfbfb;
+}
+
+.public-footer{
+	width: inherit;
+	height: 30px;
+	background-color: #404040;
+	padding-top: 10px;
+}
