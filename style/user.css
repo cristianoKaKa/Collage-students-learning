@@ -1,0 +1,46 @@
+.main{
+    height: 675px;
+    width: inherit;
+    background-color: white;
+}
+.user-logo{
+    float: right;
+    margin-right: 30px;
+    margin-top: 12px;
+}
+.user-nav{
+    float: left;
+    margin-top: 36px;
+    margin-left: 50px;
+    width: 200px;
+    height: 440px;
+    background-color: #4a4949;
+}
+.user-nav-items a{
+    text-decoration: none;
+}
+.user-nav-items{
+    font-family: 楷体;
+    font-size: 40px;
+    color: #626060;
+    margin-top: 60px;
+}
+.user-content{
+    float: left;
+    width: 706px;
+    height: 550px;
+    background-color: #4a4949;
+    margin-left: 64px;
+    margin-top: 40px;
+}
+.user-content-list{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.user-content-items{
+    font-family: 楷体;
+    font-size: 40px;
+    color: #cdc5c5;
+    text-align: left;
+    margin-top: 90px;
+}

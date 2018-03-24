@@ -1,0 +1,39 @@
+.user-logo{
+    float: right;
+    margin-right: 30px;
+    margin-top: 12px;
+}
+.main{
+    width: 1147px;
+    height: 680px;
+    background-color: #5d5b5b;
+}
+.words{
+    float: left;
+    margin-top: 55px;
+    font-family: 楷体;
+    color: #797979;
+}
+.nav{
+    float: left;
+    margin-top: 80px;
+    margin-left: 30px;
+    width: 120px;
+    height: 570px;
+    background-color: #757373;
+    padding-left: 1px;
+}
+.nav-items{
+    color: #171616;
+    font-family: 楷体;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.hotspot{
+    float: left;
+    width: 870px;
+    height:640px ;
+    background-color: #757373;
+    margin-left: 24px;
+    margin-top: 40px;
+}

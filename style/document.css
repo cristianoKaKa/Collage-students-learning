@@ -1,0 +1,55 @@
+.public-header{
+}
+.main{
+    width: 1147px;
+    height: 680px;
+    background-color: #b3b2b2;
+}
+.main-header{
+    width: inherit;
+    height: 82px;
+    background-color: #757373;
+}
+.user-logo{
+    float: right;
+    margin-right: 30px;
+    margin-top: 12px;
+}
+.words{
+    float: left;
+    margin-left: 64px;
+    margin-top: 24px;
+    width: 314px;
+    height: 42px;
+}
+.words p{
+    font-family: 楷体;
+    color: #d1d1d1;
+    font-size: 30px;
+}
+.button{
+    float:left;
+    margin-left: 480px;
+    margin-top: 14px;
+}
+#button{
+    width: 168px;
+    height: 54px;
+    background-color: #6b6a6a;
+    border:1px solid #6b6a6a;
+    font-family: 楷体;
+    font-size: 20px;
+    cursor: pointer;
+}
+.document{
+   background-color: white;
+    height: 598px;
+    width: inherit;
+    float: left;
+}
+.document-items{
+    color: #797979;
+    font-family: 楷体;
+    font-size: 40px;
+    margin-top: 38px;
+}

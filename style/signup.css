@@ -26,7 +26,7 @@ fieldset{
     font-size: 20px;
 }
 #inputs input:focus{
-    border-color: rgba(99,223,66,0.3);
+    border-color: rgba(124, 155, 60, 0.3);
 }
 #submit{
     width: 80px;
